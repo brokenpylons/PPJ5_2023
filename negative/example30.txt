@@ -1,3 +1,0 @@
- AtiSit := 1;;
-   smetRte:=10
- 

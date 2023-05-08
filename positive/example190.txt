@@ -1,8 +1,0 @@
- ACCC := AeSuct;
-         sASCh := fadac;
-WidCR := HeeSEto;
- for (ArdtEtota :=103 * MiCOlleta + 00 * 1 - AOgCc to iCiilto + -12 ) begin
-       FeCSEte:= #fffB - 123 & 123;
- CONSOLE 1
-         end
- 

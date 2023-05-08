@@ -1,5 +1,0 @@
- Ar 12;
-  AnCOcte := AiS;
- 
-CONSOLE -H
-    

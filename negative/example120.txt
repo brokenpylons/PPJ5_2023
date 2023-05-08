@@ -1,6 +1,0 @@
-n:=HO + MO + COL;
-     jiSORteta := 123 -- ( (123 ) + jOgCcte );
- for ArSSi:= -Mnetct to smRChbegin
-MAkghtota := 1
- end
-     

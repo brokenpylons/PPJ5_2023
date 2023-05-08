@@ -1,3 +1,0 @@
- Wikahl := 1;
-          MCeac:=M * 0
-    

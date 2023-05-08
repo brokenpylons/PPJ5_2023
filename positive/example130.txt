@@ -1,6 +1,0 @@
-AeetR :=123;
-   for ( Aedaite := -1 to 1 ) begin
-  faetRlota:= FAdv;
-                         FACCclo:= Mieict - MOetEl
-           end
-  

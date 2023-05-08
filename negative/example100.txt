@@ -1,7 +1,0 @@
-CONSOLE 10;
-
-atb :=:=:=003;;
-               CONSOLE WARCile;
- CONSOLE M;
-      Mmea:= 103;
-   lmeac:= COLvR
