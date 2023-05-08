@@ -1,0 +1,43 @@
+ iiguEte:= AASO;
+M := 1 * 1 | 1 - AeC;
+  
+for ( MCeiEl:= 1 to 1 + MtkCh - MOkt) begin
+ MtSt:=103;
+MeeOh:=1;
+Atiui :=+00;
+CONSOLE MCgO;
+ for ( FaeCil := HaSOi to 1 & -MOkSE) begin
+    
+CONSOLE AiS;
+            CONSOLE faCiRlo + Widthteta * Wakui;
+for ( COLuE:=COL to 023) begin
+  for ( iCev := Areahte to 10 ) begin
+   Aik:=12
+       
+end;
+        seROct :=COLCRto;
+
+for ( HAgtRteta:=103 * HrCiR to +Hrkvl) begin
+  AAdO := Meei;
+CONSOLE 103
+end
+end;
+    CONSOLE 12;
+ i :=MCeiltota
+ end;
+s :=HAkiElota + 12;
+ for (ArSSh:=ACgSi to 12) begin
+ for (WCRah:=123 to -1 & sOSSi ) begin
+          for (AAd:= MaeCE to AtgChl ) begin
+          COLi := MCkSE
+    
+end
+ 
+end
+                     end;
+ACdCRt:=1;
+                 CONSOLE 123;
+      CONSOLE #10ABff
+       end;
+CONSOLE HaeC + faSSR
+

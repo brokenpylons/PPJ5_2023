@@ -1,0 +1,4 @@
+CONSOLE 0;
+      CONSOLE 12;
+    COLClte := 123
+   

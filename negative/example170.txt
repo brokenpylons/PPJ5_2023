@@ -1,0 +1,13 @@
+for (H A to 1) begin
+CONSOLE 12 -- ( -123);
+       
+Mnei := 1;
+   
+CONSOLE 103;
+     
+FvkSht :=--12 + 123
+
+end;
+     
+CONSOLE ledtE;
+lCRO:= +10 + 103 * (003 ) + -Weg * n

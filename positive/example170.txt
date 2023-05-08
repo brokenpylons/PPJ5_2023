@@ -1,0 +1,11 @@
+AtRuctota:=MtRCh;
+    
+for ( M:= 1 to 123) begin
+           for ( MiCCcto := 123 to 1) begin
+faCvht :=1;
+ HaeSc :=#f0ffff;
+   sCk:=023;
+     CONSOLE i - 10
+end
+  end
+    

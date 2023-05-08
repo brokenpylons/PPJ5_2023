@@ -1,0 +1,10 @@
+iAdaRlota :=02 * Aeeai;
+ CONSOLE M;
+ M:=Mre * 10;
+   for (MtCuR:= #f0Afff to -1) begin
+       
+faeth:=1;
+ ACevl := Wregctota;
+ CONSOLE 1
+                 
+end

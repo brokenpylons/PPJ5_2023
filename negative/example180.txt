@@ -1,0 +1,13 @@
+ for ( fakgl :=iCeiht to jaeCRend
+COL:= #f0fBff;
+CONSOLE 023;
+          CONSOLE 1 * -#1ffBff
+  end;
+sCgO:=123;
+           M:= Mrd;
+
+CONSOLE 103;
+    CONSOLE 10;
+      
+fa := -0 & 0
+    

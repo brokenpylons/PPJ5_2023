@@ -1,0 +1,13 @@
+Htkglle := -MaeOi & 1;
+    
+COLg := 00;
+  for (COLth := A + HACClte to 12 ) begin
+ 
+A := COLOlteta;
+for ( irev :=00 to FCeg) begin
+         CONSOLE 1 - -103
+              
+end
+
+end
+

@@ -1,0 +1,9 @@
+ Htealto :=10;
+ CONSOLE WCCgi;
+     
+CONSOLE MiCvlto;
+      
+sekah:= FadChle;
+       
+MeiuR:=#1fABff
+ 

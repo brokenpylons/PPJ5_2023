@@ -1,0 +1,4 @@
+MCkuEteta:=A * 1;
+   
+CONSOLE 1
+ 

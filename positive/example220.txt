@@ -1,0 +1,13 @@
+ for (HAea:= sCdac * 12 to MrS) begin
+    CONSOLE #10fBff;
+  for (COLvc:=Htial * -123 to Fekui) begin
+       for ( FaRt :=1 - HCSuE to sOe ) begin
+     CONSOLE A
+   end
+end;
+     
+CONSOLE iOSi
+ end;
+FrSii :=123;
+AegOlt :=sAiuh
+ 

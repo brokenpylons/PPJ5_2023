@@ -1,0 +1,33 @@
+MARCh:= 1;
+          
+MeiiR := 1;
+
+MOSu:=1;
+    faRu :=1;
+ WCeg:= #f0ffff;
+       for (WtRuh := 023 * 12 to 1 + 103 - 02) begin
+  
+for ( M:=-itgiRte to sACu) begin
+          
+HCSaht:= 00;
+
+HOi := -#ffAf;
+  CONSOLE Wrd;
+       for ( iekScteta:=1 | HaRact to 02 + COLg ) begin
+     for ( WCSO :=Atetite to AteaR ) begin
+     ieS:=1;
+  CONSOLE +AOiCR - #10ABff;
+ 
+MegSct := -MtSt;
+      
+Wikvh:=Mikah - fai + 103
+    end;
+ for (sCgOht := F - iAegito * 00 * 023 to seevite * MCdO ) begin
+               faCuc :=iiRg + 0 & 103
+    end
+  end;
+      MrCi := 10
+    end;
+ 
+WeiS := -123
+ end

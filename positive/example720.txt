@@ -1,0 +1,40 @@
+for ( HtCv:= 12 - 0 to fadvh ) begin
+  CONSOLE fagic;
+    for (faRCllo :=HOeuh * Meetllota to HtRuh) begin
+          
+MeSgcl :=#10AB;
+           CONSOLE 1;
+     AeCai := Wrgi + FakOhto;
+CONSOLE ArRti
+end;
+    for (COLOl := Areg to -Aeg - -COLvEto ) begin
+  
+COLSR := FaduRleta + -W;
+         
+CONSOLE iCg;
+ CONSOLE sCiuh - faiih | -A
+    end;
+
+CONSOLE WiCOR;
+ 
+CONSOLE FOCgE;
+  for (MCiCE :=12 to 10 * 1 ) begin
+     HeStRteta := 1;
+ CONSOLE 1 * 1
+             end;
+
+Hieih:= COLai;
+                   for ( M:=003 to Heki & 12) begin
+   AeCORto :=HtdvR;
+CONSOLE AiggEto * HAeuR;
+   CONSOLE 10;
+Mrd := faiSR;
+A:=ACi & 1 | 0;
+        
+CONSOLE s;
+irRgh:=#1fABff
+  
+end
+             end;
+                 sARaE:=1
+            

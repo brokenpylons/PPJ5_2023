@@ -1,0 +1,35 @@
+ for ( HCdgE :=FAS to -MtRvi) begin
+    iakiEte:= 12;
+       CONSOLE Mtkgc - 0 | -FekOh;
+      
+for (s:= Migg to 12 * 1) begin
+   AeCuE:=-MtgCEtota;
+      
+CONSOLE 1;
+   AaRvl := 10;
+ 
+Fae:=12;
+M:= 0 * MaguEl;
+ for (MtRSRlota:=+faCu to COLS + COLg | Mieul) begin
+              sOS :=ieCul | Meight
+        end
+                    end;
+iigSh :=sARgRt;
+    
+HAdCl :=MiRthl;
+ HASvRt:= 1;
+         Haetcte :=WOggh;
+  for (WOd := siig to #10ff) begin
+        CONSOLE -1 | 10;
+
+MrSORte:= MaS + #ffffff;
+  
+COLih:= 123 * 1;
+ COLvllo :=10;
+       fagChtota:=1;
+      COLvcteta:=1 - Mrgall
+end;
+FCiOh:=103;
+         
+CONSOLE -fadai
+   end

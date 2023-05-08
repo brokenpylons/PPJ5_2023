@@ -1,0 +1,56 @@
+ for (MCSicle:= 103 to F - faeti) begin
+ for (M := 1 * -HAe to 12 ) begin
+    COLtlte := iOd
+   end;
+ CONSOLE Mikt * 103
+      end;
+   for (WtdiE :=-A & saigh - -1 to 1) begin
+   Hreail:= #f0ff + COLiito;
+           AOgahte :=12;
+MCCahlota:= 00 * 0;
+
+for ( ACdORtota:= 12 | faeS to -faeOctota ) begin
+    
+for (fakvh:= 003 to -003 ) begin
+         
+MreSR:=FAetR
+         end;
+ 
+CONSOLE 10;
+CONSOLE 12 & faeCRteta + HACOcteta + M;
+             
+iACiil := faCtR;
+                 CONSOLE 0;
+
+faeih := HOkgit
+  end;
+          for (Frdu:=+0 to AOeaEte ) begin
+ AaCORt:= iii;
+CONSOLE 12
+         
+end;
+ for ( sagth:= #f0Afff to 103) begin
+FeSg:= -seeO;
+        
+WrggRt := -Hek * WiiChteta;
+   CONSOLE 1 * MOda;
+FeRglleta:= +123;
+   CONSOLE 0 & 10;
+   COLgEle :=0 * COLiiteta + #ffAfff * 1 * 0;
+   WrRih := iCeOite;
+      AOSC :=#ffABff - M;
+s :=+0
+ end;
+
+F:=MtRCR;
+      
+for ( ACRiR:=12 to +123 & 023) begin
+  
+CONSOLE +#f0Af;
+ 
+sCiC := 1;
+    
+CONSOLE HCeaR
+              end
+   end
+  

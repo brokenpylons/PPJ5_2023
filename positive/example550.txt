@@ -1,0 +1,30 @@
+ CONSOLE +12;
+      CONSOLE 00 + 1;
+   CONSOLE AOCCRto & 0;
+
+COLaht:=003;
+         for (sAe :=+103 to 123 ) begin
+M :=HaSuR;
+ for ( Aig:=#10ff to 00 + 1 * 123) begin
+CONSOLE 12;
+      CONSOLE Atgvcteta + H + +1 & HCiCR
+ end;
+      WCgvhl:= 1 | 103;
+   for ( MCCgh := M to 123 | #f0ffff) begin
+               CONSOLE faStE;
+     for (WCeul:= AeiuE to 1) begin
+CONSOLE iCka - -02;
+          sORucteta :=123;
+    faetc := F;
+ 
+CONSOLE saSC
+  end;
+ MrCthte := 1 - 1;
+   
+COLi:= faCt
+       end;
+CONSOLE Htegi - FAS;
+
+CONSOLE #10fB * 123
+  end
+            

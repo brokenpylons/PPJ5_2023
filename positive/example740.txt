@@ -1,0 +1,41 @@
+ COLC:= MACihleta;
+  for (Madg := +#ffAf to 02) begin
+            for (AOROh:= 003 to 10 ) begin
+  
+for (COLil := COLOR to 023 ) begin
+ 
+W :=1 + 123;
+fagCR:=10 * fagth - +stdil;
+
+CONSOLE 123 * 1;
+   HOkvltota := sAeacle
+       end;
+    
+faRiR:=COLOh;
+ MAiglte:= 1;
+ Haet:= sieu - seitRtota - 1;
+ CONSOLE #1fffff;
+ 
+for (FCdii:=WrCucleta to sOS) begin
+    FACgc :=#f0ABff & -12 - WORS * iCSC;
+    HeeuEl :=srSCiteta;
+ faet := WietR
+       end
+        end
+             end;
+ MCROi := WCSuE & 1;
+     
+for ( faga := 1 to MiiCct + 12 ) begin
+    A:=1 + -sOROh
+          
+end;
+ seeS := sAkiRteta;
+      HiSvh:=1 * 1 + -10;
+   MiRt:=003;
+for ( MiiiE := 103 to -123 ) begin
+     for ( AaeOi := 103 to 1) begin
+     
+FAdihteta:=sti
+       end
+   end
+    

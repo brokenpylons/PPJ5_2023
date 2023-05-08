@@ -1,0 +1,14 @@
+ MrkOcleta :=faSih + -1;
+sACOlleta := #ffff;
+ 
+Atdii:=023;
+WtSuEt := 1 * -FCeChleta - 10;
+  CONSOLE 103;
+for ( fadgElo:=+MteuR to Mievit ) begin
+         CONSOLE WakOl * 103 + iOC + WAigRteta
+  end;
+CONSOLE 02;
+                CONSOLE Mrevc + -WteOh + +12;
+      WrgC:= A;
+   HtCOi :=103;
+        sid := sOgt

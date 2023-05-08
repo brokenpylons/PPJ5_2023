@@ -1,0 +1,4 @@
+for ( Hv := lveS to 123) end
+  A:= -0 + 103
+    end
+ 

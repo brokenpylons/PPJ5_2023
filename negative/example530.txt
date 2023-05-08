@@ -1,0 +1,29 @@
+for arC:= -W to Abegin
+MCCSll := 0
+  end;
+  fabth :=:= aigCh * ( 023);
+   l :=1;
+F := (sikallota );
+  ltgal:=ie;
+ 
+jreg := AtdS;
+  CONSOLE ( 1) + 103 + jnbuh;
+MaeiE := -iebgRt;
+       M:=-+-( 12 );
+     
+CONSOLE 10;
+Fi 123;
+   for n := WOkuRt * ( -MmCalteta) to 0 * nAbCh + (( M) ) + (aAeC) ) begin
+CONSOLE 10;
+       inbgcto:= jCg;
+Mmiac :=1
+  CONSOLE nvi * -1 & 12 - 12;
+        CONSOLE 1;
+  jmRucte := :=123;
+   faCah:= 0;
+   for (Mre :=-( F ) + ( -10 ) + 023 + 1 + ( #1fAfff + 12 ) to ( 02)) begin
+
+CONSOLE MC + nCS
+end
+end
+   

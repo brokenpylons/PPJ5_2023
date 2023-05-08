@@ -1,0 +1,42 @@
+ai:= 0;
+CONSOLE ( M);
+   Wrb :=liggc | 1;;
+       nvdilt:= 123;
+       
+for (COLu :=faeS to 10end
+  lOetc:=faSui;
+     j :=1 + 103 + 0
+  end;
+                   MtCOct :=0;
+sCd :=HngCht;
+         AeCS:= 1 & ( 12) | 10 -- 023 + (0 ) + #f0Afff * 1 + 103;
+     sr:=lngiR;
+
+jnCiE := COLtEto
+ for (fadOE := faC to --fa) begin
+  CONSOLE 1 + ( FCdg );;
+  AO:= (MOSt) * 123;
+ for (Am :=FnSClto * #10Afff to ++1begin
+           for (irbac:=srev + 103 to 10) begin
+faC := ArCtct
+            end
+     end
+                   for ( MndO := sngC to WeRgi) begin
+   faSCRtota :=12
+     for l := := lAkSi to 00) end
+     faC:= 1;
+ saRCl :=WObCR + ntkucte;
+     fa:=#1fABff;
+MOCChtota := 1
+
+end
+end
+end;
+    Wtd:= MCCtR;
+HvCCi:= 103;
+for ( FC := 1 to W ) begin
+     CONSOLE -( (-( #ffABff) )) - 123 * atd | -02;
+   fagCile := -COLuc
+    end;
+      CONSOLE -WAeCEteta - fadu
+    

@@ -1,0 +1,35 @@
+for ( Aakv :=103 to FARgi) begin
+ Atgihto := 1 - Figtcto
+   end;
+ faguhtota:=1;
+
+for (FikOc := 0 to 0 ) begin
+  for (sCivh :=103 - 1 to iig ) begin
+   for ( AOevl:= Hee to faeOc) begin
+s:= #f0ABff;
+        stiaE:=MAg;
+       
+MeRCEto:=1 & FCeOEteta + siiSE - -1
+        end;
+   COLuctota:=103 & Ftgtl;
+ ACiOi :=10;
+    CONSOLE sCe;
+     for ( WAkgR:= siRu to 1 ) begin
+
+MCe :=COLOhteta;
+  for (iiiu :=1 to 00 ) begin
+      faeOltota :=023 * 123;
+ 
+for ( COLaito:= #10AB to MaCu ) begin
+   iigSltota :=1
+     end
+ end;
+      Aagv:= COLSi
+
+end;
+         CONSOLE MAev;
+   F:= #10Af * FrgC
+end
+     
+end
+  

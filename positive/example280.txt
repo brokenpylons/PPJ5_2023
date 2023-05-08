@@ -1,0 +1,13 @@
+Aik:=MOkCl;
+        WeRSc := 1 & FadgE;
+Wtkv :=1;
+s:=+COLacte * Mekth;
+               CONSOLE 1 * srevh - COLvE;
+            
+CONSOLE iae;
+       CONSOLE 1 - 1 * 103;
+ for ( sCgCh :=sCCuRlota - HaSSE - -003 to HteCRl ) begin
+        A := 103 * M
+end;
+       CONSOLE 10 + 02 * 1
+       

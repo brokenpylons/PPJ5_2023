@@ -1,0 +1,31 @@
+ Av := lib;
+ for ( i:= 1 to angabegin
+       CONSOLE WiRgcto + 103;
+    MtRSc:= ( -10 | 1 - 003) + 103
+  Hnii := Aaduh
+            COL := Mid + 1 & 10;
+ jAdvct:=-00;
+  
+CONSOLE 1;
+     for (iOitcte:=nmR to 12 ) begin
+ MvdOR:=MrR;
+         CONSOLE -aA * 1
+end;
+  for jCk := Maea to ( (1 ) )) begin
+      
+COLv:= 02;
+  W:= ( 00);
+             aCSCi:=Av;
+img := 0
+end;
+ Ai :=#f0ffff;;
+ MvdS :=-Mrgtct * ( ( nieal) );
+  for a 0 to svdCh) begin
+   COLtE := -nt * 123 * #f0fB
+  
+end
+      end;
+    CONSOLE H
+       
+WAkvc :=1
+      

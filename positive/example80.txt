@@ -1,0 +1,5 @@
+ for ( faduRto:= AOeilteta to Mtiiht * iCeuR) begin
+CONSOLE 0
+end;
+Aidac :=#1ffBff
+  

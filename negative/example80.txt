@@ -1,0 +1,7 @@
+MnkgEto:= 123
+CONSOLE Fibahto | ( 1 * 1 );
+
+CONSOLE (MiCgi);
+ FOigR:=10
+     Febah M
+

@@ -1,0 +1,4 @@
+for nnR := -1 + +ArbiRt to 10 ) begin
+     CONSOLE 103 + (snR) | 12
+end
+    

@@ -1,0 +1,25 @@
+ CONSOLE 103;
+  for ( FAS:=1 to 0 ) begin
+for ( FASSR:=stivl * COLC to HreS) begin
+    FCgtR :=1;
+      for (MiSCh:=#1ffBff * iOivh to Megvhteta + FAeih & 1 ) begin
+CONSOLE AAiuhl
+end;
+for (COLSltota :=1 & 10 to 10 ) begin
+   MiCah := 1
+  end;
+              AeC :=AaeO;
+ Arevh:=023 - saeC;
+   for ( COLS:=003 + AreuE to AOdv * faCOEto - fadahto - HOeal | MOkOito + 1 | -0 + FOiihto - 1 - 10 | 10 + #ffffff * 103 * 003 ) begin
+ iCggil :=MOevR;
+    AASSht :=1;
+   MORSRte:= -iAd
+  
+end
+ end
+   end;
+CONSOLE HiSv;
+ 
+A :=1;
+     ieev :=+faRih - +srCvRlota
+        

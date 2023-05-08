@@ -1,0 +1,48 @@
+for ( MiSvh:=0 & -WidOh to ACkOi ) begin
+seka := -FCdah;
+                  CONSOLE Ateg * iekti;
+ for (Mtkghl:= HOROE to AeRScl) begin
+
+iieahl:= COLg + AiCgh & #10ffff + 1;
+        
+for ( MaevR:=-iaSii - -sOd to MOdSEt ) begin
+MiRtiteta :=+FARCh;
+    ieiai :=1 - WOei;
+  CONSOLE W - Mtii
+      
+end;
+          for (FCCght :=Mreacte * 0 to sCdCit ) begin
+CONSOLE AOdul + 1;
+FrSiht:=1;
+for ( stkacto :=Fagi to +1 ) begin
+CONSOLE sORvE;
+  faeORl := A * -12 - 1;
+       FrROc:= MAggh
+     end;
+for ( FikCE:=12 to 02 | -0) begin
+       for ( M:= 10 * 12 to 12) begin
+ 
+Hikahl := WAgt * Hegih
+ end;
+  COLt :=MieShl * FrkC - sagaEle;
+faRth :=+WAe;
+    stgSl :=103
+ end
+   end
+    end;
+   faiicle:=+023;
+   CONSOLE stktE * sek;
+  AtS :=10;
+   
+iaRS:=MCRShto - #f0fB
+     end;
+for ( MiSg := 10 to 103 ) begin
+     for ( HeiuR:=MCSvilo to 1 ) begin
+      
+CONSOLE 10 + 123 & Htd * 1
+          end;
+     
+CONSOLE Miitlleta * 103
+end;
+                iOCOE:= +00 - COLSc + 0
+          

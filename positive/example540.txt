@@ -1,0 +1,31 @@
+ for ( Mriaitota:= 023 to 1 + -Feei) begin
+   sOka:=-Heig;
+   CONSOLE -MAeih * faSaEt | -WaeC;
+ for ( A:=AAevhteta | 103 to 1 & A & Aadt) begin
+       
+seeal:= 00
+           end;
+  
+COL := 12
+  end;
+
+for ( HOdvi:= fag to 103 ) begin
+ for (COLOc := +sOCah - -023 + Feeg to -HedaR & COL * Fte + 12) begin
+CONSOLE sieScteta;
+  HrCgRtota :=0;
+CONSOLE steC;
+for (itC :=1 to 103) begin
+    
+Hiev:=1
+      end;
+ CONSOLE ACdOR | 123 + 0;
+  
+HAiS:=123;
+ 
+sOSg:=-00;
+CONSOLE 1
+ end;
+        HCitht:= 0 | #1fAfff;
+        FeRgh := 1 | #10fB - -0
+ end
+       

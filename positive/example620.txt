@@ -1,0 +1,35 @@
+ for ( FCRalleta:= Aeegi & 10 to H + +#10Afff) begin
+for ( steg := 00 - 123 to 1) begin
+CONSOLE 0;
+  HOeScto:= #1fff + 1
+      end;
+  for (HikiEtota :=0 to 1 ) begin
+   for (COLih:=Meggcteta to -COLu * 1 * 1 ) begin
+          A:=-023;
+    for (WAgOilo := 1 to 103) begin
+Weigc := 1 * 1;
+      
+iOdgR:= WCev;
+     F :=1 - 1;
+         Mad := 103;
+       sAkSE :=003;
+ CONSOLE 0
+ end
+     end;
+       
+HieChl := MOdth;
+   for ( Aeivltota:= 103 to iAdtito ) begin
+CONSOLE COL;
+          ACdCRle:=12
+   
+end
+         end
+     
+end;
+CONSOLE -1 - -i;
+CONSOLE -123;
+ 
+CONSOLE irRghtota;
+ CONSOLE 1;
+CONSOLE 1 - Aedih | 0
+       

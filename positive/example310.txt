@@ -1,0 +1,18 @@
+ ste := -1;
+  CONSOLE 1;
+   for ( faevhteta :=COLic to 103 & COLti) begin
+   CONSOLE MieSlteta
+
+end;
+i := itdahteta;
+ faRuht:=-02 - -1;
+          for (fakic:=HCRu & -1 to 1 + 1) begin
+CONSOLE AOgvlleta;
+     
+CONSOLE 12;
+ AOktht :=003;
+     WOkuR := A;
+ ititi := Mie
+   end;
+    MCkv := 103 * 1;
+  iegglt:=AOkShteta

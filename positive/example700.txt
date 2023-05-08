@@ -1,0 +1,40 @@
+for ( HOeuitota := 1 to +saevi ) begin
+for ( HadgEte:= #10ABff * ACCuht to +#1fAB) begin
+           for ( COLC:=1 to -MrSC ) begin
+ACgi:= MiCOl;
+  seCOhto :=H;
+    MAC :=12
+ 
+end
+end;
+   F:= 0;
+       
+CONSOLE 0
+     end;
+    for (FeSS :=sae - Wrdvl to seRtc ) begin
+   for ( ireiite:= #f0ffff to FAiah ) begin
+ ArgCRtota:= iAev - W * +1;
+       for (COLCRto:= F to M) begin
+
+for (HiSSR :=1 - s to 00) begin
+ 
+CONSOLE 103;
+    CONSOLE fae;
+     CONSOLE 103 - 12;
+
+COLCE := #ffAf * AtCuR | Wrkah
+end
+    end;
+     
+faCg := 003 - 003 - HtR;
+ CONSOLE 103 - 123
+        end;
+  for ( iieOE:=+123 + 10 to FORa ) begin
+for ( Higt := M to #1fAfff ) begin
+
+FtSSito:= -COLSR;
+ saSv :=103
+  
+end
+     end
+  end

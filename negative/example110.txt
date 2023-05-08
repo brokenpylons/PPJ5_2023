@@ -1,0 +1,6 @@
+ for ( jvgal:= jt to ( ariaclota + 1 + 10 ) ) begin
+ WtevRte:=( ( 1) )
+  end;
+        M ((0) );
+ li := :=1
+       

@@ -1,0 +1,14 @@
+CONSOLE MARiRto;
+       CONSOLE -1 | MiSiR - sCSalte;
+      MrRvc:=COLahte;
+for ( MOCilt := sieCh + 1 to 12 + 003) begin
+ Ateuhleta := AeSai | 1;
+CONSOLE faig;
+       ACg := 0 * WeRu;
+      for (Waiu :=HAeuhto to 12 + A ) begin
+  HAev := WORaR
+      end;
+      for (sCgaR:= 10 + -1 - MiiSElota to 103 + AaRO - AtSgct ) begin
+AaCgR:=MAku
+ end
+       end

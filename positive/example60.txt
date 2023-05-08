@@ -1,0 +1,4 @@
+ for (WeRgc:=WCevll to +W ) begin
+ CONSOLE Maii
+             end
+ 

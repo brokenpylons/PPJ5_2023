@@ -1,0 +1,18 @@
+for COLC := 023 to 1 begin
+            CONSOLE MC;
+
+siCih:=:=1;
+lvStclo := :=103;
+     
+fabtR 0 * (+-jvbgh ---- 123 )
+   end;;
+  CONSOLE faRvR;
+Ai:=123 + ( WadvElo) * 1 | Mekvc;
+   CONSOLE #ffff + 123
+
+for (faduct :=iAgScto to 1) begin
+ faeSil :=MveCi
+    fabtl := ( 1 ) + 003
+      end;
+          CONSOLE --1 + (1 )
+ 

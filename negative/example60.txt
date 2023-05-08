@@ -1,0 +1,5 @@
+for ( s:=-HmiOR to -fabegin
+ atbCc :=123;
+ CONSOLE -srRi
+end
+     
