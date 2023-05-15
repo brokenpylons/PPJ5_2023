@@ -26,3 +26,5 @@ do
         ((err++))
     fi
 done
+
+exit $err
